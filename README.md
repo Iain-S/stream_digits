@@ -1,2 +1,4 @@
-# stream_digits
-Isolate and record digits in an image feed.
+# Stream Digits
+
+Recognise and record digits from an image or video feed.
+
