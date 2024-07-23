@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "stream_digits"
+  site-url: "https://Iain-S.github.io/stream_digits"
+  description: "Isolate and record digits in an image feed."
+  repo-branch: main
+  repo-url: "https://github.com/Iain-S/stream_digits"
